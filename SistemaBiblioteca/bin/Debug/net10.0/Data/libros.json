@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "Harry Potter y La Orden del Fenix",
+    "Isbn": "1234567891011",
+    "IdAutor": 1,
+    "IdCategoria": 1,
+    "AñoPublicacion": 2004,
+    "CantidadCopias": 60,
+    "CopiasDisponibles": 60,
+    "Activo": true
+  }
+]

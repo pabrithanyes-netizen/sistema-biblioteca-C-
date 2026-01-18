@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "Dune",
+    "Isbn": "1234567891011",
+    "IdAutor": 1,
+    "IdCategoria": 1,
+    "AñoPublicacion": 1980,
+    "CantidadCopias": 50,
+    "CopiasDisponibles": 50,
+    "Activo": true
+  }
+]
